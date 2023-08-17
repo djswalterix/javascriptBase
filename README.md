@@ -1,5 +1,5 @@
 # Contatore Moderno
-![Counter Screenshot](/assets/img/screenshotContatore.png)
+![Counter Screenshot](/assets/img/screenshot.png)
 
 Un semplice contatore moderno implementato con HTML, CSS e JavaScript.
 
