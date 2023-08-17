@@ -136,7 +136,7 @@ Distributed under the MIT License.
 
 Walter Hoxha ([https://twitter.com/your_username](https://www.linkedin.com/in/walter-hoxha-62112126b/))
 
-Project Link: [https://github.com/djswalterix/javascriptBase]([https://github.com/your_username/repo_name](https://github.com/djswalterix/javascriptBase)
+Project Link: [https://github.com/djswalterix/javascriptBase](https://github.com/djswalterix/javascriptBase)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
