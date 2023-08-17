@@ -1,0 +1,41 @@
+//reset
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container:first-of-type {
+  padding-top: 3vh;
+}
+.heightFull {
+  height: 80vh;
+}
+.centerVertical {
+  justify-content: center;
+}
+
+.counter {
+  font-size: 4rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+.social {
+  // height: 5vh;
+  position: fixed;
+  bottom: 5vh;
+  text-align: center;
+  font-size: 5vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  i {
+    padding: 1.5vh;
+  }
+}
