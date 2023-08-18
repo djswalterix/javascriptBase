@@ -134,7 +134,7 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Walter Hoxha ([https://twitter.com/your_username](https://www.linkedin.com/in/walter-hoxha-62112126b/))
+Walter Hoxha [https://www.linkedin.com/in/walter-hoxha-62112126b/](https://www.linkedin.com/in/walter-hoxha-62112126b/)
 
 Project Link: [https://github.com/djswalterix/javascriptBase](https://github.com/djswalterix/javascriptBase)
 
